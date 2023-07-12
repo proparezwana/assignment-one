@@ -1,0 +1,18 @@
+/* common shared styles */
+body{
+    font-family: sans-serif;
+}
+
+.text-primary{
+    color: #E55473
+}
+
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+}
