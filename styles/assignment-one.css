@@ -45,10 +45,12 @@ body{
     height: 449px;
     background: #111010;
     align-items: center;
+    align-items: center;
 }
 
 .footer-title{
-
+    padding-top: 128px;
+text-align: center;
 }
 
 .footer-text{
@@ -66,4 +68,8 @@ body{
     font-family: Lato;
     font-size: 16px;
     font-weight: 400;
+}
+
+.text-secondary{
+    color: white;
 }
