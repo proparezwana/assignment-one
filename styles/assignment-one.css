@@ -57,6 +57,7 @@ body{
 .subscription{
     text-align: center;
     width: 1922px;
+    row-gap: 10px;
 }
 
 /* footer related styles */
